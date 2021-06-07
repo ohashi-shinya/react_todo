@@ -1,2 +1,3 @@
 # react_todo
-React.js Lessonで作成するTodoアプリのリポジトリ
+
+node v12~
